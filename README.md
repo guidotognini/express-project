@@ -8,17 +8,17 @@ This project was undertaken with the primary goal of enhancing my skills in Expr
 
 - **Contact Storage:** The system offers a robust solution for storing user contact information, making it possible to manage and access contacts with ease.
 
-- **Enhanced Security:** To ensure the security of user information, the application uses JSON Web Tokens (JWT)-based authentication, as guided in the tutorial.
+- **Enhanced Security:** To ensure the security of user information, the application uses JSON Web Tokens (JWT)-based authentication.
 
 - **MongoDB Database:** The project integrates with MongoDB, providing a reliable and scalable storage system for user data.
 
 ## Technologies Used
 
-- **Node.js and Express:** The application is developed in Node.js, with the Express framework to handle routes and controllers, following the tutorial's instructions.
+- **Node.js and Express:** The application is developed in Node.js, with the Express framework to handle routes and controllers.
 
-- **MongoDB:** The NoSQL MongoDB database is used to store user contact data, as demonstrated in the tutorial.
+- **MongoDB:** The NoSQL MongoDB database is used to store user contact data.
 
-- **JSON Web Tokens (JWT):** For secure user authentication, JWT technology is adopted, as explained in the tutorial.
+- **JSON Web Tokens (JWT):** For secure user authentication, JWT technology is adopted.
 
 ## How to Use
 
